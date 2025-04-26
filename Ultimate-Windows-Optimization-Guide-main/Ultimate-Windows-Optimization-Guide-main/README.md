@@ -24,8 +24,3 @@ Windows guide for power users. <br> Covering all aspects, this guide simplifies 
 
 ## Updates
 This guide is continuously updated with improvements and bug fixes. <br> Make sure to always download the latest version from GitHub.
-
-## Guide
-[Video](<https://youtu.be/PlACZ9Gp1xo>)
-
-[![Video](https://img.youtube.com/vi/PlACZ9Gp1xo/maxresdefault.jpg)]([https://www.youtube.com/watch?v=jXnoFqcAkQA](https://youtu.be/PlACZ9Gp1xo))
